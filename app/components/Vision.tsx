@@ -21,7 +21,7 @@ export default function Vision() {
         </h2>
         <p className="text-lg sm:text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
           <strong>HbabalduVerse</strong> is more than a platform — it’s a movement. 
-          We're building a self-sustaining digital ecosystem where bold ideas thrive, 
+          We&aposre building a self-sustaining digital ecosystem where bold ideas thrive, 
           innovation shapes society, and sovereignty is powered by technology.
         </p>
 
