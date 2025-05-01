@@ -52,7 +52,7 @@ export default function CTA() {
           Join the Future — Now
         </h2>
         <p className="text-lg sm:text-xl mb-8">
-          Be part of the revolution. Whether you're an innovator, investor, developer, or visionary — 
+          Be part of the revolution. Whether you&aposr an innovator, investor, developer, or visionary — 
           the <strong>HbabalduVerse</strong> is open to you.
         </p>
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -80,7 +80,7 @@ export default function CTA() {
         )}
 
         <p className="text-sm mt-4 text-blue-100">
-          We'll reach out with early access and partnership opportunities.
+          We&aposll reach out with early access and partnership opportunities.
         </p>
       </motion.div>
 
