@@ -1,6 +1,6 @@
 import { google } from 'googleapis';
 import { JWT } from 'google-auth-library';
-import credentials from './credentials.json'; // adjust path if needed
+import credentials from '@/credentials.json'; // adjust path if needed
 
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
 const SHEET_ID = '1LzXrlbWuqnuoSQwhXLHJ7M40ygEs89eKe7bjPXWcsk8'; // from your sheet URL
